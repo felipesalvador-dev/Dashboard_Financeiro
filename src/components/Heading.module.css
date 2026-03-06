@@ -1,0 +1,12 @@
+.heading{
+  font-size: 36px;
+  text-align: center;
+  font-weight: 700;
+  color: var(--primaria);
+  margin-bottom: 10px;
+}
+
+.sub{
+  text-align: center;
+  color: #626363;
+}

@@ -1,0 +1,27 @@
+.card{
+  background: var(--fundo-card);
+  border-radius: 14px;
+  padding: 22px;
+  box-shadow: var(--sombra);
+  transition: all 0.25s ease;
+}
+
+.card:hover{
+  transform: translateY(-5px);
+  box-shadow: 0 12px 25px rgba(0,0,0,0.12);
+  cursor: pointer;
+}
+
+.titulo{
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 12px;
+  color: var(--primaria);
+}
+
+.conteudo{
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 15px;
+}

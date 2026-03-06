@@ -1,0 +1,10 @@
+:root{
+  --alta: #27ae60;
+  --baixa: #e74c3c;
+  --fundo-card: #ffffff;
+
+  --primaria: #2c3e50;
+  --secundaria: #3498db;
+
+  --sombra: 0 8px 20px rgba(0,0,0,0.08);
+}
